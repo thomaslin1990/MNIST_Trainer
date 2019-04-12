@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+mnist_result/
+my_mnist.model
+venv/
+
